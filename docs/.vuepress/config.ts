@@ -32,7 +32,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: "首页",
         link: "/",
         items: [
-          { text: "PR", link: "/pages/515f1b/" },
           { text: "Template", link: "/pages/303386/" },
           { text: "React", link: "/pages/3033867/" },
           { text: "vocabulary", link: "/pages/475c9f/" },
@@ -43,7 +42,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
       {
         text: "基础",
-        link: "/basic",
+        link: "/pages/3120f4/",
         items: [
           { text: "HTML5", link: "/pages/3120f4/" },
           { text: "CSS", link: "/pages/082405/" },
@@ -58,17 +57,18 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
       {
         text: "笔记",
-        link: "/notes",
+        link: "/pages/35ec49/",
         items: [
           { text: "JavaScript", link: "/pages/35ec49/" },
           { text: "HTML", link: "/pages/94eaaa/" },
           { text: "CSS", link: "/pages/b24a33/" },
           { text: "浏览器实现原理与 API", link: "/pages/0aef4e/" },
+          { text: "收藏", link: "/pages/b17bb5/" },
         ],
       },
       {
         text: "算法",
-        link: "/algorithm",
+        link: "/pages/518814/",
         items: [
           {
             text: "质数",

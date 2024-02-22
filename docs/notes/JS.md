@@ -91,3 +91,7 @@ a.hello(); //hello，有效
 #### 2.4 类型转换
 
 ![](../images/parse.jpg)
+
+- 装箱转换
+
+每一种基本类型 Number、String、Boolean、Symbol 在对象中都有对应的类，所谓装箱转换，正是把基本类型转换为对应的对象，它是类型转换中一种相当重要的种类。
