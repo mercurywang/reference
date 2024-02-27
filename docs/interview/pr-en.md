@@ -22,3 +22,7 @@ From October 2023 until now, I've been responsible for developing a management s
 From April to September 2023, I developed a weekly reporting system for a factory. Again, the core technologies were TypeScript and React. I was responsible for modules such as weekly report creation, editing, saving, and searching.
 
 From October 2022 to March 2023, I developed an order system for fire and earthquake insurance. For this project, I was responsible for developing the form pages of the insurance order system.
+
+During the integration testing phase, I was involved in testing the entire business process, including the product list, product search, order page, order preview, order success page, and more.
+
+I participated in the QA process, which involved querying and confirming specifications related to uncertain areas of business logic, designing documents, and defining standards.
