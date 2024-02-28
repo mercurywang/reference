@@ -33,10 +33,8 @@ I participated in the QA process, which involved querying and confirming specifi
 
 - The company I worked for was responsible for assisting foreigners with medical services and handling insurance claims and reimbursement thereafter.
 
-- symptoms
-- after seeing a doctor
-- claim according to the diagnosis
-- insurance policy
+- Recommend hospitals as per symptoms.
+- After seeing a doctor, make claim and reimbursement according to the diagnosis and insurance policy.
 - What percentage is covered by insurance?
 - What is the maximum amount of insurance coverage?
 - What is the maximum amount of insurance coverage?
