@@ -26,3 +26,17 @@ From October 2022 to March 2023, I developed an order system for fire and earthq
 During the integration testing phase, I was involved in testing the entire business process, including the product list, product search, order page, order preview, order success page, and more.
 
 I participated in the QA process, which involved querying and confirming specifications related to uncertain areas of business logic, designing documents, and defining standards.
+
+- Before transitioning into the IT industry, I had about two years of work experience primarily focused on international health insurance services and insurance claims.
+
+- Foreigners working in China are typically provided with commercial medical insurance by their companies. The benefit of doing so is that they can receive insurance reimbursement when seeking medical treatment at international medical centers and hospitals where English services are available.
+
+- The company I worked for was responsible for assisting foreigners with medical services and handling insurance claims and reimbursement thereafter.
+
+- symptoms
+- after seeing a doctor
+- claim according to the diagnosis
+- insurance policy
+- What percentage is covered by insurance?
+- What is the maximum amount of insurance coverage?
+- What is the maximum amount of insurance coverage?
