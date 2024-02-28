@@ -38,3 +38,17 @@ I participated in the QA process, which involved querying and confirming specifi
 - What percentage is covered by insurance?
 - What is the maximum amount of insurance coverage?
 - What is the maximum amount of insurance coverage?
+
+## Data Analysis
+
+- In my first job in the IT industry, I gained over two years of experience in data analysis and development of visualization tools.
+
+- At that time, I worked for a company focused on developing BI platform software targeting Tableau. We implemented a system where tables such as Excel or CSV files could be uploaded and directly imported into a database.
+
+- Then identifies each field as a dimension or measure in the Data pane, depending on the type of data the field contains. You use these fields to build your analysis.
+
+- Data fields are made from the columns in your data source. Each field is automatically assigned a data type such as integer, string, or date, and a role.
+
+- Dimensions contain qualitative values (such as names, dates, or geographical data). You can use dimensions to categorize, segment, and reveal the details in your data.
+
+- Measures contain numeric, quantitative values that you can measure.
