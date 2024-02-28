@@ -43,12 +43,12 @@ I participated in the QA process, which involved querying and confirming specifi
 
 - In my first job in the IT industry, I gained over two years of experience in data analysis and development of visualization tools.
 
-- At that time, I worked for a company focused on developing BI platform software targeting Tableau. We implemented a system where tables such as Excel or CSV files could be uploaded and directly imported into a database.
+- At that time, I worked for a company focused on developing BI platform software targeting Tableau. We implemented a system which contains the features or say an operating flow as:
 
-- Then identifies each field as a dimension or measure in the Data pane, depending on the type of data the field contains. You use these fields to build your analysis.
+1. **Data Connection**: which is to connect to a wide range of data sources, including databases, spreadsheets, allowing users to analyze data from various sources in one platform.
 
-- Data fields are made from the columns in your data source. Each field is automatically assigned a data type such as integer, string, or date, and a role.
+2. **Visualizations**: to offer a wide variety of visualization options, including bar charts, line graphs, scatter plots, maps, and more. Users can customize these visualizations to suit their needs and create dynamic, interactive dashboards.
 
-- Dimensions contain qualitative values (such as names, dates, or geographical data). You can use dimensions to categorize, segment, and reveal the details in your data.
+3. **Dashboards**: allows users to combine multiple visualizations into interactive dashboards, providing a comprehensive view of their data.
 
-- Measures contain numeric, quantitative values that you can measure.
+4. **Data Analysis**: allows users to perform advanced data analysis and create reports based on their data.
