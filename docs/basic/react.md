@@ -5,8 +5,10 @@ permalink: /pages/d3bf3d/
 categories:
   - basic
 tags:
-  - 
-author: 
+  -
+author:
   name: mercurywang
   link: https://github.com/mercurywang
 ---
+
+![life-cycle](../images/lifecycle.jpg)
