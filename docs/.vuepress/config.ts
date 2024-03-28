@@ -34,7 +34,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
           { text: "PR-JP", link: "/pages/0a5c3f/" },
           { text: "PR-EN", link: "/pages/859064/" },
-          { text: "Short", link: "/pages/859065/" },
           { text: "Template", link: "/pages/303386/" },
           { text: "React", link: "/pages/3033867/" },
           { text: "vocabulary", link: "/pages/475c9f/" },
