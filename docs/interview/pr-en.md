@@ -27,39 +27,6 @@ From April to September 2023, I had developed a weekly reporting system. Once ag
 
 From October 2022 to March 2023, I participated in an order system for fire and earthquake insurance. For this project, I was responsible for developing the form pages of the insurance order system. Fire and earthquake insurance are types of home insurance, which are common in non-life insurance.
 
-## Languages Skills
-
-I don't have much problems with reading and writing documents, while I'm still working hard on my conversational skills.
-
-## Other Positions
-
-I have also looked into other engineering positions, and I've found that the Guidewire Engineer role suits me the best because of my experience in the insurance industry.
-
-## Questions
-
-1. I noticed that the position you recommended for me is Guidewire Engineer. Where is the work location?
-2. Is English the primary language used in the workplace?
-3. Is English the primary communicating language during Interview?
-4. Could you please provide a brief overview of your company's interview process? Like how many rounds and whether is it a face to face interview or online interview?
-
-## One more thing
-
-There is one thing that is complicated, please be patient with me: I started to look for new jobs since February and received an offer last week and subsequently handed in my resignation to my current company. This means I will be serving my current company until the end of this month and joining a new company in April, or say have to join a new company in April. So, my concern is, how long will the entire interview process take?
-
-## Insurance Experiences
-
-Before transitioning into the IT industry, I had about one year of work experience primarily focused on international health insurance services and insurance claims from 2011 to 2012.
-
-Foreigners working in China are typically provided with commercial medical insurance. The benefit of this is that insured can receive insurance reimbursement when seeking medical treatment at international medical centers and hospitals where English services are provided.
-
-The company I worked for was responsible for assisting foreign clients with medical services, providing direct billing, and handling insurance claims and reimbursements thereafter. Direct billing refers to real-time reimbursement for outpatient services. The core techniques involve the real-time billing network system, membership cards(Anti-counterfeiting technology), and terminal machines. During that time, I was the one who was using the system. Now, I hope to have the opportunity to develop a system in that capacity.
-
-- Recommend hospitals as per symptoms.
-- After seeing a doctor, make claim and reimbursement according to the diagnosis and insurance policy.
-- What percentage is covered by insurance?
-- What is the maximum amount of insurance coverage?
-- What is the minimum amount of insurance coverage?
-
 ## Previous working experiences
 
 TODO:
@@ -69,14 +36,6 @@ TODO:
 3. 2012 - 2017 Foreign Trading Industry
 4. 项目中遇到的困难，具体如何解决的。
 5. 未来职业规划
-
-## Testing Experiences
-
-I've been involved in the testing process of the order system for fire and earthquake insurance.
-
-During the integration testing phase, I was involved in testing the entire business process, including the product list, product search, order page, order preview, order success page, and more.
-
-I participated in the QA process, which involved querying and confirming specifications related to uncertain areas of business logic, designing documents, and defining standards.
 
 ## Data Analysis
 
