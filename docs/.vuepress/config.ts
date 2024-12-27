@@ -32,29 +32,9 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: "面试",
         link: "/",
         items: [
-          { text: "PR-JP", link: "/pages/0a5c3f/" },
-          { text: "PR-EN", link: "/pages/859064/" },
-          { text: "Template", link: "/pages/303386/" },
-          { text: "React", link: "/pages/3033867/" },
-          { text: "vocabulary", link: "/pages/475c9f/" },
           { text: "Performance", link: "/pages/8aa759/" },
           { text: "页面加载过程", link: "/pages/4c27c2/" },
           { text: "Java", link: "/pages/fbf3b0/" },
-        ],
-      },
-      {
-        text: "基础",
-        link: "/pages/3120f4/",
-        items: [
-          { text: "HTML5", link: "/pages/3120f4/" },
-          { text: "CSS", link: "/pages/082405/" },
-          { text: "JavaScript", link: "/pages/e17721/" },
-          { text: "ES6", link: "/pages/484ef7/" },
-          { text: "React", link: "/pages/d3bf3d/" },
-          { text: "Vue", link: "/pages/19b092/" },
-          { text: "TypeScript", link: "/pages/a4841d/" },
-          { text: "Webpack", link: "/pages/534218/" },
-          { text: "DesignPattern", link: "/pages/af5e3a/" },
         ],
       },
       {
@@ -63,7 +43,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         items: [
           { text: "JavaScript", link: "/pages/35ec49/" },
           { text: "HTML", link: "/pages/94eaaa/" },
-          { text: "CSS", link: "/pages/b24a33/" },
           { text: "浏览器实现原理与 API", link: "/pages/0aef4e/" },
           { text: "收藏", link: "/pages/b17bb5/" },
         ],
