@@ -45,6 +45,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: "HTML", link: "/pages/94eaaa/" },
           { text: "浏览器实现原理与 API", link: "/pages/0aef4e/" },
           { text: "收藏", link: "/pages/b17bb5/" },
+          { text: "EventEmitter", link: "/pages/9c4238/" },
         ],
       },
       {
